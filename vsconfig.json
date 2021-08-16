@@ -1,0 +1,67 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.colorTheme": "Dracula",
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "yaml.schemas": {
+        "file:///home/sander/.vscode/extensions/atlassian.atlascode-2.8.5/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+    },
+    "git.autofetch": true,
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "terminal.integrated.shell.linux": "/bin/zsh",
+    "files.autoSave": "afterDelay",
+    "gitlens.advanced.messages": {
+        "suppressGitMissingWarning": true
+    },
+    "remote.SSH.remotePlatform": {
+        "192.168.10.3": "linux"
+    },
+    "tabnine.experimentalAutoImports": true,
+    "cSpell.enableFiletypes": [
+        "blade"
+    ],
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "workbench.editor.untitled.hint": "hidden",
+    "todo-tree.general.tags": [
+        "BUG",
+        "HACK",
+        "FIXME",
+        "TODO",
+        "XXX",
+        "[ ]",
+        "[x]"
+    ],
+    "todo-tree.regex.regex": "(//|#|<!--|;|/\\*|^|^\\s*(-|\\d+.))\\s*($TAGS)",
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "liveshare.presence": true,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.fontWeight": "600",
+    "security.workspace.trust.untrustedFiles": "open",
+    "[scss]": {
+        "editor.defaultFormatter": "sibiraj-s.vscode-scss-formatter"
+    },
+    "cSpell.userWords": [
+        "Chakra",
+        "prefetch"
+    ],
+    "window.titleBarStyle": "custom",
+}
